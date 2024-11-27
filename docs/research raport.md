@@ -5,3 +5,7 @@ With the purpuse of learning how to code a microcontroller on the lower level. A
 How to accrutely program robot to perform tasks. 
 
 And having documentation so that anyone can recreate this project.
+
+# Requirements
+|Functional requirement|---------------|MoSCoW|
+|The robort arm needs to have six degrees of freedom | 
